@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Sunilis an software engineer
+Sunil is an software engineer
